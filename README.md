@@ -15,6 +15,6 @@ We obtained data from the St. Paul Open Budget data set: https://www.stpaul.gov/
 We use the technique of 'Overview First, Zoom and Filter, Then Details on Demand' that is known in the data visualization space. <br/>
 Three main screens: Treemap (the grid of squares shown on startup, size proportional to value), hover for yearly line-chart breakdown, click for yearly Sankey Diagram esque breakdown
 
-
+![Screenshot](screenshot.PNG)
 
 
