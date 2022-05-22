@@ -11,7 +11,7 @@ It might take a little bit to clone everything since the application comes bundl
 Then, launch the application by double clicking "treemap.exe" </br>
 
 ## Data
-We obtained data from the [St. Paul Open Budget Data Set] (https://www.stpaul.gov/departments/financial-services/saint-pauls-budget#!/year/default). <br/>
+We obtained data from the [St. Paul Open Budget Data Set](https://www.stpaul.gov/departments/financial-services/saint-pauls-budget#!/year/default). <br/>
 
 ## Techniques
 We use the technique of 'Overview First, Zoom and Filter, Then Details on Demand' that is known in the data visualization space. <br/>
