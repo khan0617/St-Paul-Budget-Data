@@ -5,7 +5,8 @@ Visualization of the city of St. Paul (capital of Minnesota)'s approved financia
 Hamza Khan (owner of this repo), Zeb Zimmer, Sameer Bhagi. The source code is not available here, just the executable file as well as the dataset (.csv) used.
 
 ## Usage (Windows x64 only for now)
-Simply clone the repository using ```git clone https://github.com/khan0617/St-Paul-Budget-Data/``` <br/>
+First clone the repository using ```git clone https://github.com/khan0617/St-Paul-Budget-Data/``` in your terminal <br/>
+It might take a little bit to clone everything since the application comes bundled with Java so you don't have to install it separately.
 Then, launch the application by double clicking "treemap.exe" </br>
 
 ## Data
